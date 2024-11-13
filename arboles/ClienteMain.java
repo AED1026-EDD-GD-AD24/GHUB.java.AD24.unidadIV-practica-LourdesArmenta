@@ -19,6 +19,14 @@ public class ClienteMain {
         nodoB.setDerecho(nodoE);
         nodoC.setIzquierdo(nodoF);
         nodoC.setDerecho(nodoG);
+        System.out.println("Recorrido en preorden recursivo");
+        ab.preorden();
+        System.out.println("\nRecorrido en inorden recursivo");
+        ab.inorden();
+        System.out.println("\n Recorrido en postorden recursivo");
+        ab.postorden();
+        System.out.println();
+
         
 
         
