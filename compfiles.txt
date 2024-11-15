@@ -4,6 +4,8 @@
 ./pila/Pila.java
 ./arboles/ArbolBinario.java
 ./arboles/Nodo.java
+./arboles/Comparable.java
+./arboles/Estudiante.java
 ./arboles/ClienteMain.java
 ./miPrincipal/Principal.java
 ./miTest/AppTest.java
