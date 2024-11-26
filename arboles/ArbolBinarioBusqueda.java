@@ -1,6 +1,6 @@
 package arboles;
 
-import static org.junit.Assert.assertNull;
+
 
 public class ArbolBinarioBusqueda extends ArbolBinario{
     public ArbolBinarioBusqueda(){
