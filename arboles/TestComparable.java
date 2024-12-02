@@ -1,5 +1,7 @@
 package arboles;
 
+/* 
+
 public class TestComparable {
     public static void main(String[] args) {
         Estudiante estudiante1 = new Estudiante(1245,"Juan Abitia");
@@ -26,3 +28,4 @@ public class TestComparable {
     }
     
 }
+    */

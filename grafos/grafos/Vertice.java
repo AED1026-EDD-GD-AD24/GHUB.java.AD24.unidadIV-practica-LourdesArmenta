@@ -13,6 +13,4 @@ public class Vertice{
         this.nombre = nombre;
     }
     
-
-
 }
